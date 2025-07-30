@@ -5,7 +5,7 @@ Business Email & Social Media Extractor v2.0
 A Python tool for extracting email addresses and social media links from business websites.
 Reads business data from CSV files and outputs cleaned contact information.
 
-Author: Your Name
+Author: Usama Rao
 License: MIT
 """
 
